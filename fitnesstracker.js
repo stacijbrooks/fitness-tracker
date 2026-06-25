@@ -1,4 +1,4 @@
-// Array of workout sessions
+// Array of workout sessions (Object)
 const workouts = [
     {
         activity: "Weight Training",
